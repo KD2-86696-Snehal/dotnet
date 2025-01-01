@@ -1,0 +1,12 @@
+D:\CDAC\CDAC assignments\dotnet\dotnet\AssignmentSolution\Assignment3_EmployeeLib\bin\Debug\net6.0\Assignment3_EmployeeLib.deps.json
+D:\CDAC\CDAC assignments\dotnet\dotnet\AssignmentSolution\Assignment3_EmployeeLib\bin\Debug\net6.0\Assignment3_EmployeeLib.dll
+D:\CDAC\CDAC assignments\dotnet\dotnet\AssignmentSolution\Assignment3_EmployeeLib\bin\Debug\net6.0\Assignment3_EmployeeLib.pdb
+D:\CDAC\CDAC assignments\dotnet\dotnet\AssignmentSolution\Assignment3_EmployeeLib\obj\Debug\net6.0\Assignment3_EmployeeLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\CDAC assignments\dotnet\dotnet\AssignmentSolution\Assignment3_EmployeeLib\obj\Debug\net6.0\Assignment3_EmployeeLib.AssemblyInfoInputs.cache
+D:\CDAC\CDAC assignments\dotnet\dotnet\AssignmentSolution\Assignment3_EmployeeLib\obj\Debug\net6.0\Assignment3_EmployeeLib.AssemblyInfo.cs
+D:\CDAC\CDAC assignments\dotnet\dotnet\AssignmentSolution\Assignment3_EmployeeLib\obj\Debug\net6.0\Assignment3_EmployeeLib.csproj.CoreCompileInputs.cache
+D:\CDAC\CDAC assignments\dotnet\dotnet\AssignmentSolution\Assignment3_EmployeeLib\obj\Debug\net6.0\Assignment3_EmployeeLib.sourcelink.json
+D:\CDAC\CDAC assignments\dotnet\dotnet\AssignmentSolution\Assignment3_EmployeeLib\obj\Debug\net6.0\Assignment3_EmployeeLib.dll
+D:\CDAC\CDAC assignments\dotnet\dotnet\AssignmentSolution\Assignment3_EmployeeLib\obj\Debug\net6.0\refint\Assignment3_EmployeeLib.dll
+D:\CDAC\CDAC assignments\dotnet\dotnet\AssignmentSolution\Assignment3_EmployeeLib\obj\Debug\net6.0\Assignment3_EmployeeLib.pdb
+D:\CDAC\CDAC assignments\dotnet\dotnet\AssignmentSolution\Assignment3_EmployeeLib\obj\Debug\net6.0\ref\Assignment3_EmployeeLib.dll
