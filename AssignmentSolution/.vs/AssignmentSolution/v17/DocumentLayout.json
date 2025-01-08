@@ -58,21 +58,19 @@
               "RelativeToolTip": "Assignment3\\HRMS\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T12:23:58.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T12:23:58.706Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HRMS",
+              "Title": "HRMS.csproj",
               "DocumentMoniker": "D:\\CDAC\\CDAC assignments\\dotnet\\dotnet\\AssignmentSolution\\Assignment3\\HRMS\\HRMS.csproj",
               "RelativeDocumentMoniker": "Assignment3\\HRMS\\HRMS.csproj",
               "ToolTip": "D:\\CDAC\\CDAC assignments\\dotnet\\dotnet\\AssignmentSolution\\Assignment3\\HRMS\\HRMS.csproj",
               "RelativeToolTip": "Assignment3\\HRMS\\HRMS.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-01T12:23:21.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T12:23:21.467Z"
             },
             {
               "$type": "Document",
@@ -84,8 +82,7 @@
               "RelativeToolTip": "Assignment3_EmployeeLib\\WageEmp.cs",
               "ViewState": "AgIAACUAAABgMzMzMzMswDMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T12:21:59.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T12:21:59.503Z"
             },
             {
               "$type": "Document",
@@ -97,8 +94,7 @@
               "RelativeToolTip": "Assignment3_EmployeeLib\\Supervisor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T12:20:24.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T12:20:24.806Z"
             },
             {
               "$type": "Document",
@@ -110,8 +106,7 @@
               "RelativeToolTip": "Assignment3_EmployeeLib\\Manager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T12:19:23.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T12:19:23.683Z"
             },
             {
               "$type": "Document",
@@ -123,8 +118,7 @@
               "RelativeToolTip": "Assignment3_EmployeeLib\\Employee.cs",
               "ViewState": "AgIAAA8AAAAAxMzMzMwWwJgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T12:18:19.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T12:18:19.482Z"
             },
             {
               "$type": "Document",
@@ -136,8 +130,7 @@
               "RelativeToolTip": "Assignment3_EmployeeLib\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T12:17:28.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T12:17:28.122Z"
             },
             {
               "$type": "Document",
@@ -147,7 +140,7 @@
               "RelativeDocumentMoniker": "Assignment3_EmployeeLib\\Date.cs",
               "ToolTip": "D:\\CDAC\\CDAC assignments\\dotnet\\dotnet\\AssignmentSolution\\Assignment3_EmployeeLib\\Date.cs",
               "RelativeToolTip": "Assignment3_EmployeeLib\\Date.cs",
-              "ViewState": "AgIAACoAAACAmZmZmZkZwDIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T12:15:34.229Z",
               "EditorCaption": ""
